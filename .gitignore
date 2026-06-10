@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/geo/*.shp
+data/geo/*.dbf
+data/geo/*.shx
+data/geo/*.prj
+data/geo/*.cpg
